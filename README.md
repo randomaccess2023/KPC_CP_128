@@ -21,7 +21,7 @@ Let's walk through this repository:
 
 `optimum_NLL.ipynb` file plots a line graph utilizing the negative log-likelihoods for the chosen cluster sets (8, 12, 16, and 20).
 
-> Finally, The folder `Figures` has 5 `.png` files in it: _Fig_1.png_, _Fig_2.png_, _Fig_3.png_, _Fig_4.png_, and _Fig_5.png_. These are the same figures that can be seen in the conference paper.
+> Finally, The folder `Figures` has 5 `.png` files in it: _`Fig_1.png`_, _`Fig_2.png`_, _`Fig_3.png`_, _`Fig_4.png`_, and _`Fig_5.png`_. These are the same figures that can be seen in the conference paper.
 
 ## This repository uses `MIT License`. Read the terms and conditions from _LICENSE_ text file.
 
