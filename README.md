@@ -1,2 +1,3 @@
-# KPC_CP_128
-This repository contains the code for the conference paper titled "Feature extraction and unsupervised clustering of histopathological images of pancreatic cancer using information maximization".
+# Feature Extraction and Unsupervised Clustering of Histopathological Images of Pancreatic Cancer Using Information Maximization
+
+To be updated...
