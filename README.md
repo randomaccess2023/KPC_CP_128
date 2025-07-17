@@ -17,7 +17,9 @@ Let's walk through this repository:
 >> _**clus16**_ has the individual clusters in the form of `.csv` files. We obtained these files after executing the code shown in `part_5_save_clusters.ipynb` script.
 >> _**models16**_ has 3 `.ckpt` files: `model_en_202203211747_5000.ckpt`, `model_cl_202203211747_5000.ckpt`, and `model_de_202203211747_5000.ckpt`. These three files form our unsupervised model. `hist_modelS_202203211747_5000.tsv` file stores diiferent metrics obtained during the training of our model.
 
-### The files present in the _kpc16_ folder can also be obtained for cluster sets of 8, 12, and 20. We haven't shown them here to avoid repetitiveness. In the paper, we showed the `UMAP` and `clustering` results for 8-cluster set. These can be obtained after training the model using `part_1_5000e_8c_training.ipynb` file for the 8-cluster set. After that, running `part_2_5000e_8c_clustering.ipynb` and `part_3_5000e_8c_umap.ipynb` will provide the desired results. The users will have to do these by themselves.
+#### The files present in the _kpc16_ folder can also be obtained for cluster sets of 8, 12, and 20. We haven't shown them here to avoid repetitiveness. In the paper, we showed the `UMAP` and `clustering` results for 8-cluster set. These can be obtained after training the model using `part_1_5000e_8c_training.ipynb` file for the 8-cluster set. After that, running `part_2_5000e_8c_clustering.ipynb` and `part_3_5000e_8c_umap.ipynb` will provide the desired results. The users will have to do these by themselves.
+
+`optimum_NLL.ipynb` file plots a line graph utilizing the negative log-likelihoods for the chosen cluster sets (8, 12, 16, and 20).
 
 > Finally, The folder `Figures` has 5 `.png` files in it: _Fig_1.png_, _Fig_2.png_, _Fig_3.png_, _Fig_4.png_, and _Fig_5.png_. These are the same figures that can be seen in the conference paper.
 
