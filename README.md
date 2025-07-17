@@ -11,7 +11,7 @@ Let's walk through this repository:
 4. `part_4_5000e_16c_NLL.ipynb`: This file includes the source code to compute the nagative log-likelihood for the 16-cluster set.
 5. `part_5_save_clusters.ipynb`: This file contains the code for saving clusters individually for the 16-cluster set.
 
-`HHH16 & C16 & D16.csv` has the information regarding the latent space.
+`HHH16 & C16 & D16.csv` file has the information regarding the latent space.
 
 > **kpc16** folder has two subfolders: _**clus16**_ and _**models16**_.
 >> _**clus16**_ has the individual clusters in the form of `.csv` files. We obtained these files after executing the code shown in `part_5_save_clusters.ipynb` script.
