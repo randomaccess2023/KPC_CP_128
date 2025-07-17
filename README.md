@@ -7,7 +7,7 @@ Let's walk through this repository:
 - **kpc16** folder:
 1. `part_1_5000e_16c_training.ipynb`: This file has the code for training the unsupervised model using the 16-cluster set.
 2. `part_2_5000e_16c_clustering.ipynb`: This file offers the code for clustering the training images using the trained unsupervised model with the 16-cluster set. We only showed the samples using the _HE staining_ due to the page limitations during the paper submission.
-3. `part_3_5000e_16c_umap.ipynb`: This file offers the code for plotting _UMAP_ for the 16-cluster set.
+3. `part_3_5000e_16c_umap.ipynb`: This file shows the code for plotting _UMAP_ for the 16-cluster set.
 4. `part_4_5000e_16c_NLL.ipynb`: This file includes the source code to compute the nagative log-likelihood for the 16-cluster set.
 5. `part_5_save_clusters.ipynb`: This file contains the code for saving clusters individually for the 16-cluster set.
 
